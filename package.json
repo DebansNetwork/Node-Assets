@@ -1,0 +1,30 @@
+{
+  "name": "Node-Assets",
+  "version": "0.0.1",
+  "description": "Debans assets server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://norfair@github.com/DebansNetwork/Node-Assets.git"
+  },
+  "keywords": [
+    "node",
+    "assets",
+    "debans",
+    "network",
+    "norfair"
+  ],
+  "author": "Nicolas FAVRE (norfair00)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebansNetwork/Node-Assets/issues"
+  },
+  "homepage": "https://github.com/DebansNetwork/Node-Assets",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "express": "^4.11.2"
+  }
+}
